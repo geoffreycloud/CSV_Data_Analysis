@@ -6,7 +6,7 @@ The purpose of this project is to analyze a structured CSV dataset using core Py
 ## Project Structure
 - [AnalysisFunctions.py](https://github.com/geoffreycloud/python-portfolio-project-starter-files/blob/main/us-medical-insurance-costs.ipynb) - Contains python code for analysis functions
 - [insurance.csv](https://github.com/geoffreycloud/python-portfolio-project-starter-files/blob/main/insurance.csv) - Data source
-- [us-medical-insurance-costs.ipynb](https://github.com/geoffreycloud/python-portfolio-project-starter-files/blob/main/us-medical-insurance-costs.ipynb) - The analysis is documented in a jupyter notebook, where the dataset is explored and key metrics are calculated. Example analyses include computing averages, identifying common categories, and evaluating conditional trends within the data.  
+- [us-medical-insurance-costs.ipynb](https://github.com/geoffreycloud/python-portfolio-project-starter-files/blob/main/us-medical-insurance-costs.ipynb) - The analysis is documented in a jupyter notebook, where the dataset is explored and key metrics are calculated.
 
 ## Outcome  
 This project was completed as a practice exercise to strengthen fundamental Python skills for data analysis. It demonstrates how meaningful insights can be derived from structured data using only core Python concepts, serving as a foundation for more advanced data engineering and data science workflows.
