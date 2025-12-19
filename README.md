@@ -1,3 +1,12 @@
-This project involves analyzing a single CSV file, focusing on fundamental data manipulation techniques without relying on external libraries like Pandas. It includes calculating the average age, identifying the most common region, and determining the probability of an individual with children being male or female. The project emphasizes manual data operations such as iterating through data, performing calculations, and generating insights from tabular data using core Python functions.
+# CSV Data Analysis Project
+_Technology used: Python, Jupyter Notebook_  
 
-The goal is to strengthen foundational skills in handling and analyzing CSV data by implementing custom functions to calculate averages, frequencies, and probabilities. Through this approach, the project provides a solid introduction to data analysis workflows in Python, while avoiding more automated libraries to reinforce the logic behind data manipulation.
+The purpose of this project is to analyze a structured CSV dataset using core Python programming concepts without relying on high-level data analysis libraries. The project focuses on building a strong foundation in data manipulation, control flow, and modular code design.
+
+## Project Structure
+- [AnalysisFunctions.py](https://github.com/geoffreycloud/python-portfolio-project-starter-files/blob/main/us-medical-insurance-costs.ipynb) - Contains python code for analysis functions
+- [insurance.csv](https://github.com/geoffreycloud/python-portfolio-project-starter-files/blob/main/insurance.csv) - Data source
+- [us-medical-insurance-costs.ipynb](https://github.com/geoffreycloud/python-portfolio-project-starter-files/blob/main/us-medical-insurance-costs.ipynb) - The analysis is documented in a jupyter notebook, where the dataset is explored and key metrics are calculated. Example analyses include computing averages, identifying common categories, and evaluating conditional trends within the data.  
+
+## Outcome  
+This project was completed as a practice exercise to strengthen fundamental Python skills for data analysis. It demonstrates how meaningful insights can be derived from structured data using only core Python concepts, serving as a foundation for more advanced data engineering and data science workflows.
